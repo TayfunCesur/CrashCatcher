@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrashCatcherSample</string>
+    <string name="dialog_title">"Upps :/ Something went wrong"</string>
+</resources>

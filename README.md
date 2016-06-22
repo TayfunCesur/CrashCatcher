@@ -41,6 +41,10 @@ In here, you must set intent for starting again and kill the process.And look Cr
 
 Cheers!
 
+## Important!
+if you want to do all of this, don't forget initiliaze CrashCatcher! Because you have to set that thread into your activity.
+After you set your activity into Thread, you will get the exception.
+
 ## Download Sample Apk
 [from Dropbox](https://www.dropbox.com/s/b3r5o0ubnxsfrwq/app-debug.apk?dl=0)
 

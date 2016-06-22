@@ -2,3 +2,10 @@
 # CrashCatcher
 > This was really my need. So I decided to do sth about that because I really hate facing "Unfortunately, bla bla has stopped" dialog. Finally I created some tool for avoiding that fucking dialog and get stacktrace of the crash.
 <br><br><br>
+
+###Screenshots
+<p align="center">
+<img src="http://i.hizliresim.com/o7X9J7.png"/>
+</p>
+
+##How it works

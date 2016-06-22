@@ -48,6 +48,21 @@ After you set your activity into Thread, you will get the exception.
 ## Download Sample Apk
 [from Dropbox](https://www.dropbox.com/s/b3r5o0ubnxsfrwq/app-debug.apk?dl=0)
 
+#Licence
+
+do What The Fuck you want to Public License
+
+Version 1.0, June 2016
+Copyright (C) 2016 Tayfun Cesur (]d).
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+Ok, the purpose of this license is simple
+and you just
+
+DO WHAT THE FUCK YOU WANT TO.
+
+
 ### Questions?
 > Let me know if you have questions. Thanks
 
